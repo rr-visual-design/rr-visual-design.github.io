@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Double R Design</title>
+    <link>http://doublerdesign.github.io/</link>
+    <description>Recent content on Double R Design</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://doublerdesign.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
