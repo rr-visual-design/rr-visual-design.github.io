@@ -1,0 +1,17 @@
+.quote {
+  font-style: italic;
+}
+
+.quote:before {
+  color: rgba(255, 255, 255, .8);
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-left: -1.25em;
+  margin-right: .25em;
+  vertical-align: -0.4em;
+}
+
+.quote-author {
+  font-size: 1em;
+}
